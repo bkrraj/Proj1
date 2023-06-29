@@ -1,7 +1,7 @@
 # Proj1
 
 
-'''
+```
 resource "aws_iam_role" "eks" {
   name = "eks-main-cluster"
 
@@ -20,4 +20,4 @@ resource "aws_iam_role" "eks" {
 }
 POLICY
 }
-'''
+```
